@@ -1,0 +1,10 @@
+* cl-case-control
+
+Case-controlling support package
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ichimal/cl-case-control.git   |
+| commit  | d97c2f4  |
+| systems | cl-case-control |
+|---------+-------------------------------------------|
+
